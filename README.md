@@ -16,5 +16,5 @@ make
 <img width="1489" alt="Screen Shot 2021-12-28 at 3 01 28 PM" src="https://user-images.githubusercontent.com/96373933/147564591-d04cbd6c-a247-41e2-b2fa-2cb77eb75ea9.png">
 3. When you press "J" you will see Julia fractal. The coolest thing about that fractal is that you can change fractal by moving your mouse and once you click your mouse once again it will freeze in its current state.
 <img width="1489" alt="Screen Shot 2021-12-28 at 3 02 13 PM" src="https://user-images.githubusercontent.com/96373933/147564769-94c79192-e9c2-45b7-bec7-d8e992ba6299.png">
-***About my code:***
-Using the MinilibX library my program generates new images pixel by pixel for each fractal you have chosen. Then it pushes that image to the screen as well as the helping menu I have created in advance.
+About my code:
+  Using the MinilibX library my program generates new images pixel by pixel for each fractal you have chosen. Then it pushes that image to the screen as well as the helping menu I have created in advance.
